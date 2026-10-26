@@ -181,7 +181,7 @@
     license: MIT
     language: Python
 - name: trajopt
-  url: http://rll.berkeley.edu/trajopt/doc/sphinx_build/html/
+  url: https://rll.berkeley.edu/trajopt/doc/sphinx_build/html/
   github: joschu/trajopt
   description: Framework for generating robot trajectories by local optimization.
   _meta:
