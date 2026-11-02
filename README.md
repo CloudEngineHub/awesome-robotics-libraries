@@ -130,7 +130,7 @@ _Embeddable engines that time-step rigid, soft, fluid, or particle dynamics with
 <summary>Inactive (8): archived or no commits for 3+ years</summary>
 
 * [Fluid Engine Dev - Jet](https://fluidenginedevelopment.org/) - Fluid simulation engine for computer graphics applications. [⭐ 2.1k](https://github.com/doyubkim/fluid-engine-dev) · last commit 2022
-* [nphysics](https://nphysics.org/) - 2D and 3D rigid body physics engine written in Rust. [⭐ 1.6k](https://github.com/dimforge/nphysics) · last commit 2021
+* [nphysics](http://web.archive.org/web/20260828015921/https://nphysics.org/) - 2D and 3D rigid body physics engine written in Rust. [⭐ 1.6k](https://github.com/dimforge/nphysics) · last commit 2021
 * Tiny Differentiable Simulator - Header-only differentiable physics engine for robotics. [⭐ 1.4k](https://github.com/erwincoumans/tiny-differentiable-simulator) · last commit 2023
 * 💀 qu3e - Lightweight 3D physics engine for rigid body dynamics. [⭐ 993](https://github.com/RandyGaul/qu3e) · last commit 2021
 * 💀 [Flex](https://developer.nvidia.com/flex) - GPU-based particle simulation for rigid bodies, fluids, and deformables. [⭐ 815](https://github.com/NVIDIAGameWorks/FleX) · last commit 2021
@@ -238,7 +238,7 @@ _Model-based control: MPC, trajectory optimization, whole-body and task-space co
 
 _General-purpose numerical solvers (LP, QP, NLP, least squares, black-box) and modeling layers._
 
-* 🟢 [Ceres Solver](http://ceres-solver.org/) - Large scale nonlinear optimization library. [⭐ 4.6k](https://github.com/ceres-solver/ceres-solver)
+* 🟢 [Ceres Solver](http://web.archive.org/web/20260918061319/http://ceres-solver.org/) - Large scale nonlinear optimization library. [⭐ 4.6k](https://github.com/ceres-solver/ceres-solver)
 * 🟢 [pymoo](https://www.pymoo.org/) - Multi-objective Optimization in Python. [⭐ 3k](https://github.com/anyoptimization/pymoo)
 * 🟢 [CasADi](https://github.com/casadi/casadi/wiki) - Symbolic framework for algorithmic differentiation and numeric optimization. [⭐ 2.3k](https://github.com/casadi/casadi)
 * 🟢 [NLopt](https://nlopt.readthedocs.io/en/latest/) - Nonlinear optimization. [⭐ 2.3k](https://github.com/stevengj/nlopt)
